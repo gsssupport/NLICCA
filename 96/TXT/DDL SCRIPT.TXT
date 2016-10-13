@@ -1,0 +1,10 @@
+
+
+
+
+
+alter table TRN_NLIC_CLAIM_DETAILS  add column NCP_PATIENT_ID INTEGER, add column NCP_DOC_NO INTEGER;
+
+
+
+
